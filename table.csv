@@ -1,0 +1,6 @@
+Column,Null?,Type
+EMPNO, - ,"NUMBER(6,0)"
+ENAME, - ,VARCHAR2(20)
+JOB, - ,VARCHAR2(10)
+DEPTNO, - ,"NUMBER(3,0)"
+SAL, - ,"NUMBER(7,2)"
